@@ -31,7 +31,7 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
       <Link className="header-buttons"
-        to="/"
+        to="/about/"
         style={{
           textDecoration: `none`
         }}
@@ -55,7 +55,7 @@ const Header = ({ siteTitle }) => (
         }}
       >EVENTS</Link>
       <Link className="header-buttons"
-        to="/"
+        to="/contact/"
         style={{
           textDecoration: `none`
         }}
