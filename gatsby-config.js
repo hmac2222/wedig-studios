@@ -31,7 +31,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Oswald', 'EB Garamond', 'Noto Sans', 'Lato']
+          families: ['Oswald', 'EB Garamond', 'Noto Sans', 'Lato', 'Lato\:900', 'Lato\:700']
         }
       }
     }
