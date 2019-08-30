@@ -13,15 +13,15 @@ const ContactPage = () => (
         <h3>...or tell us a little bit about what you're working on:</h3>
         <div className="contact-container"><form className="contact-form" method="post" action="#">
             <label>
-                Name
+                Name:
     <input type="text" name="name" id="name" />
             </label>
             <label>
-                Email
+                Email:
     <input type="email" name="email" id="email" />
             </label>
             <label>
-                Message
+                Message:
     <textarea name="message" id="message" rows="5" />
             </label>
             <button type="submit">Send</button>
