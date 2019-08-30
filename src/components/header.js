@@ -37,19 +37,19 @@ const Header = ({ siteTitle }) => (
         }}
       >ABOUT</Link>
       <Link className="header-buttons"
-        to="/"
+        to="/clients/"
         style={{
           textDecoration: `none`
         }}
       >CLIENTS</Link>
       <Link className="header-buttons"
-        to="/"
+        to="/gear/"
         style={{
           textDecoration: `none`
         }}
       >GEAR</Link>
       <Link className="header-buttons"
-        to="/"
+        to="/events/"
         style={{
           textDecoration: `none`
         }}
