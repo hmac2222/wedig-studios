@@ -7,8 +7,7 @@ import SEO from "../components/seo"
 const GearPage = () => (
     <Layout>
         <SEO title="WEDIG STUDIOS | About" />
-        <h2 className="make-music">Gear List</h2>
-        <h3 className="affordable">At WEDIG STUDIOS we believe in mixing the warmth of tried-and-true recording techniques with the best modern recording technology has to offer:</h3>
+        <h2 style={{ background: `#2A2B2E` }} className="make-music">At WEDIG STUDIOS we believe in mixing the warmth of tried-and-true recording techniques with the best modern recording technology has to offer:</h2>
         <p>Gear List Insert</p>
 
         <Link to="/">Go back home</Link>

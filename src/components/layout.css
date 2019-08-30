@@ -656,7 +656,7 @@ pre tt:after {
 .main-div {
   font-family: Lato;
   padding: 40px;
-  border: 2px solid #04080F;
+  border: 2px solid #2A2B2E;
   border-radius: 6px;
   background-color: rgba(10, 15, 13, 0.92);
   -webkit-box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.27);
@@ -671,7 +671,7 @@ box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.27);
   margin-left: -20px;
   margin-right: -20px;
   background-color: #EC4E20;
-  padding: 12px;
+  padding: 12px 12px 16px 12px;
 }
 
 .affordable {
@@ -679,7 +679,7 @@ box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.27);
   font-weight: 700;
   margin-left: -20px;
   margin-right: -20px;
-  background-color: #EC4E20;
+  background-color: #2A2B2E;
   padding: 12px;
   margin-top: -36px;
 }

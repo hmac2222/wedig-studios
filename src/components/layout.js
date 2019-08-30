@@ -37,8 +37,8 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()} Wedig Studios
+        <footer style={{ fontFamily: `Oswald`, color: `rgba(255,255,255,80%)` }}>
+          © {new Date().getFullYear()} WEDIG STUDIOS
         </footer>
       </div>
     </>
