@@ -38,8 +38,8 @@ const Layout = ({ children }) => {
       >
 
         {/* COMMENT OUT LINE BELOW TO ACTIVATE SITE */}
-        {/* <main>{children}</main> */}
-        <main><h2 className="make-music">Coming Soon</h2></main>
+        <main>{children}</main>
+        {/* <main><h2 className="make-music">Coming Soon</h2></main> */}
         <footer style={{ fontFamily: `Oswald`, color: `rgba(255,255,255,80%)` }}>
           © {new Date().getFullYear()} WEDIG STUDIOS
         </footer>
